@@ -58,22 +58,6 @@ body {
 }
 
 
-.slide:first-child {
-  background: url("1.png") no-repeat
-    center top/cover;
-}
-
-.slide:nth-child(2) {
-  background: url("2.png") no-repeat
-    center top/cover;
-}
-
-.slide:nth-child(3) {
-  background: url("3.png") no-repeat
-    center top/cover;
-}
-
-
 .buttons button#prev {
   position: absolute;
   top: 50%;
@@ -121,6 +105,26 @@ body {
 
 .slide:nth-child(5) {
   background: url(5.jpeg) no-repeat center top/cover;;
+}
+
+.slide:nth-child(6) {
+  background: url(6.jpeg) no-repeat center top/cover;;
+}
+
+.slide:nth-child(7) {
+  background: url(7.jpeg) no-repeat center top/cover;;
+}
+
+.slide:nth-child(8) {
+  background: url(8.jpeg) no-repeat center top/cover;;
+}
+
+.slide:nth-child(9) {
+  background: url(9.jpeg) no-repeat center top/cover;;
+}
+
+.slide:nth-child(10) {
+  background: url(10.jpeg) no-repeat center top/cover;;
 }
 
 @media (min-width: 640px) and (min-height: 640px) {
